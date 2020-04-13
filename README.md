@@ -1,4 +1,4 @@
-# PythonCourse (Actosoft) - Lists
+# PythonCourse (Actosoft) - Functions
 Exercises about functions to be resolved using Python. Python Online Course
 
 ## Before start coding
